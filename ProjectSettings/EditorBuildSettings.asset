@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Professional-Stickman/Scenes/MoonSDKScene.unity
+    guid: db420ab2764263745b349841704ff948
+  - enabled: 1
+    path: Assets/Scenes/Levels/Tutorial.unity
+    guid: acc0409a328b1cc47a92cfb9fbb28cf8
+  - enabled: 1
+    path: Assets/Scenes/Levels/level1.unity
+    guid: 67ebb3dc204614a41993003cef7e352e
+  - enabled: 1
+    path: Assets/Scenes/Levels/level2.unity
+    guid: 2325214cb95c2fe438255c07f2c5f4da
+  - enabled: 1
+    path: Assets/Scenes/Levels/level3.unity
+    guid: db1fdba143064c846956b0fb3001bd2d
+  - enabled: 1
+    path: Assets/Scenes/Levels/level4.unity
+    guid: 2d86bdc73f99c314f8b70313c0a94a2f
+  m_configObjects: {}

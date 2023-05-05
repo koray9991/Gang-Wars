@@ -1,0 +1,4 @@
+repository "Gang Wars@SinerjiSoftGame@cloud"
+  path "/"
+    br "/main"
+    co "/main"
